@@ -8,15 +8,40 @@
 - 让更多的人体会到DevOps的好处
 
 ## 目录
-
 - [DevOps介绍](Summary.md)
-- [写在开始](http://xxx)
+- [第一阶段](First-Step.md)
+- [第二阶段](Second-Step.md)
 
+## 工具
+### 版本控制
+- [GitLab](https://about.gitlab.com) 
+- [Gerrit](https://www.gerritcodereview.com)
 
-## 下一步
+### 文档 & 项目管理
+- [Wiki & Jira & crowd](https://www.atlassian.com)
 
-- 11
-- 22
+### 打包工具（Java）
+- [Maven](http://xxx)
+- [Gradle](http://xxx)
+- [Sbt](http://xxx)
+
+### 私服
+- [Nexus](http://xxx)
+
+### Code Review
+- [SonarQube](http://xxx)
+
+### 部署相关
+- [Docker]()
+- [Jenkins]()
+
+### 测试API管理
+- [eolinker_os]()
+
+### 监控相关
+- [grafana]()
+- [Influxdb]()
+- [telegraf]()
 
 ## 联系
 - Email: michaelliu99@sina.com
