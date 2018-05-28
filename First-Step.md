@@ -7,7 +7,7 @@
 ### 基础全流程Build
 * Project Manager: 规范文档，Wiki和Jira的使用规范，敏捷方式（看板还是瀑布）
 * DevOps Tools Env Build: 各种DevOps工具的搭建和管理(Git / SonarQube / Nexus / Jenkins / Wiki & Jira)
-* Flow Build: Git -> Code Review -> Test -> CI & CD -> Monitor
+* Flow Build: Git -> Code Review -> CI & CD -> Monitor
 
 #### Docker
 几乎所有的工具和服务，都可以[Docker](https://www.docker.com)化，所以我们先要一个Docker环境，进行一些必要的Docker配置，让我们的DevOps有一个良好的基础
@@ -28,3 +28,15 @@ PS: Atlassian都可以破解，由于都是Java的，所以泡在Docker也不难
 比较经典和通用，[Branch Model](https://nvie.com/posts/a-successful-git-branching-model)
 * Git Commit Message: 每次的提交记录，应该遵循一定的规范，让每次提交都变得规范有意义，一目了然，
 目前常用的git提交工具是[commitizen](https://github.com/commitizen/cz-cli)；检查提交Message是否规范工具[validate-commit-msg](https://github.com/conventional-changelog/conventional-changelog)；导出Change Log工具[conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
+* Gitlab，[TODO Build](http://xxx)
+
+#### Code Review
+* [SonarQube](http://xxx)
+* Code Review Meeting
+
+#### CI & CD
+* Jenkins
+
+#### Monitor
+* xxx
+* xxx
