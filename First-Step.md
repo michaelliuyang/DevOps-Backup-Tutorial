@@ -27,4 +27,4 @@ PS: Atlassian都可以破解，由于都是Java的，所以泡在Docker也不难
 * Git Branch Model: 每个Team都有自己的分支管理方式，和业务场景，团队氛围有很大关系，这里哟一篇介绍Git Branch Model的文章，
 比较经典和通用，[Branch Model](https://nvie.com/posts/a-successful-git-branching-model)
 * Git Commit Message: 每次的提交记录，应该遵循一定的规范，让每次提交都变得规范有意义，一目了然，
-目前常用的git提交工具是[commitizen](https://github.com/commitizen/cz-cli)
+目前常用的git提交工具是[commitizen](https://github.com/commitizen/cz-cli)；检查提交Message是否规范工具[validate-commit-msg](https://github.com/conventional-changelog/conventional-changelog)；导出Change Log工具[conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
