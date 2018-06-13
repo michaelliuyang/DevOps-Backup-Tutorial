@@ -19,7 +19,7 @@
 
 PS: Atlassian都可以破解，由于都是Java的，所以泡在Docker也不难，后面介绍每一种Docker的搭建方式
 
-- [Wiki](https://www.atlassian.com/software/confluence)文档管理工具，[TODO Build](http://xxx)
+- [Wiki](https://www.atlassian.com/software/confluence)文档管理工具，[如何安装](https://michaelliuyang.github.io/devops/2018/06/12/confluence-install.html)
 - [Jira](https://www.atlassian.com/software/jira)项目管理工具，[TODO Build](http://xxx)
 - [Crowd](https://www.atlassian.com/software/crowd)账号认证管理工具，[TODO Build](http://xxx)
 
