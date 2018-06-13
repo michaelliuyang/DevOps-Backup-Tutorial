@@ -1,11 +1,11 @@
 # 第一阶段
 所谓第一阶段，是指在Team实施DevOps初期，很多流程工具都需要资源和时间进行Build，但是由于各种资源限制或者上线压力，我们需要分部Build DevOps体系，
-在第一阶段，先打好基础，把DevOps的流程Build全，但是在细化和工具上，可能有所欠缺，在后面的阶段去Update他。
+在第一阶段，先打好基础，把DevOps的流程Build全，但是在细化和工具上，可能有所欠缺，在后面的阶段去Update。另外根据初始情况，在DevOps敏捷开发流程上，保证必要流程，尽量简化流程，保证Flow Run，在后面资源和时间允许下，在强化流程。
 
 第一阶段主要包含
 
 ### 基础全流程Build
-* Project Manager: 规范文档，Wiki和Jira的使用规范，敏捷方式（看板还是瀑布）
+* Project Manager: 规范文档，Wiki和Jira的使用规范，DevOps全流程，产品需求变更等等
 * DevOps Tools Env Build: 各种DevOps工具的搭建和管理(Git / SonarQube / Nexus / Jenkins / Wiki & Jira)
 * Flow Build: Git -> Code Review -> CI & CD -> Monitor
 
