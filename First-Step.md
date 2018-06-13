@@ -11,7 +11,7 @@
 
 #### Docker
 几乎所有的工具和服务，都可以[Docker](https://www.docker.com)化，所以我们先要一个Docker环境，进行一些必要的Docker配置，让我们的DevOps有一个良好的基础
-* [Docker Install & Config](https://michaelliuyang.github.io/docker/2017/05/31/docker-install.html)
+* [Docker Install & Config](https://michaelliuyang.github.io/devops/2017/05/31/docker-install.html)
 * 搭建Docker私有仓库，[TODO Build](http://xxx)
 
 #### Project Manager
@@ -20,7 +20,7 @@
 PS: Atlassian都可以破解，由于都是Java的，所以泡在Docker也不难，后面介绍每一种Docker的搭建方式
 
 - [Wiki](https://www.atlassian.com/software/confluence)文档管理工具，[如何安装](https://michaelliuyang.github.io/devops/2018/06/12/confluence-install.html)
-- [Jira](https://www.atlassian.com/software/jira)项目管理工具，[TODO Build](http://xxx)
+- [Jira](https://www.atlassian.com/software/jira)项目管理工具，[如何安装](https://michaelliuyang.github.io/devops/2018/06/12/jira-install.html)
 - [Crowd](https://www.atlassian.com/software/crowd)账号认证管理工具，[TODO Build](http://xxx)
 
 #### Git
@@ -35,7 +35,7 @@ PS: Atlassian都可以破解，由于都是Java的，所以泡在Docker也不难
 * Code Review Meeting
 
 #### CI & CD
-* [Jenkins Install & Config](http://michaelliuyang.github.io/docker/2018/05/31/docker-jenkins.html)
+* [Jenkins Install & Config](http://michaelliuyang.github.io/devops/2018/05/31/docker-jenkins.html)
 
 #### Monitor
 * xxx
