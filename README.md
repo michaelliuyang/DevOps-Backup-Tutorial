@@ -21,37 +21,35 @@
 - [Confluence & Jira & Crowd](https://www.atlassian.com)
 
 ### Build Tools(Java)
-- [Maven](http://xxx)
-- [Gradle](http://xxx)
+- [Maven Offical Website](https://maven.apache.org)
+- [Gradle Offical Website](https://gradle.org)
 
 ### Nexus Private Repo
-- [Nexus OSS官网](https://www.sonatype.com/nexus-repository-oss)
-- [Nexus Docker Hub镜像](https://hub.docker.com/r/sonatype/nexus/)
+- [Nexus OSS Offical Website](https://www.sonatype.com/nexus-repository-oss)
+- [Nexus Docker Hub](https://hub.docker.com/r/sonatype/nexus/)
 
 ### Auto Code Review Tools
-- [SonarQube官网](https://www.sonarqube.org)
-- [SonarQube Docker Hub镜像](https://hub.docker.com/_/sonarqube/)
+- [SonarQube Offical Website](https://www.sonarqube.org)
+- [SonarQube Docker Hub](https://hub.docker.com/_/sonarqube/)
 
 ### Docker
-- [Docker官网](https://www.docker.com)
+- [Docker Offical Website](https://www.docker.com)
 - [Docker Hub](https://hub.docker.com)
-- [Docker CentOs 安装](https://michaelliuyang.github.io/devops/2017/05/31/docker-install.html)
 
 ### Jenkins
-- [Jenkins官网](https://jenkins.io)
-- [Jenkins Docker Hub镜像](https://hub.docker.com/_/jenkins/)
-- [Jenkins Docker安装](https://michaelliuyang.github.io/devops/2018/05/31/docker-jenkins.html)
+- [Jenkins Offical Website](https://jenkins.io)
+- [Jenkins Docker Hub](https://hub.docker.com/_/jenkins/)
 
 ### Test Api Manage
-- [eolinker_os PHP版本](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP)
-- [eolinker_os Java版本](https://github.com/eolinker/eoLinker-AMS-Lite-For-Java)
+- [eolinker_os For PHP](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP)
+- [eolinker_os For Java](https://github.com/eolinker/eoLinker-AMS-Lite-For-Java)
 
 ### Montior
-- [grafana]()
-- [Influxdb]()
-- [telegraf]()
+- [Grafana Offical Website](https://grafana.com)
+- [Influxdb Offical Website](https://www.influxdata.com)
+- [telegraf Offical Website](https://github.com/influxdata/telegraf)
 
-## Contact
+## My Contact
 - Email: michaelliu99@sina.com
 - Blog: http://michaelliuyang.github.io
 - QQ: 120121723
