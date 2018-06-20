@@ -1,49 +1,57 @@
 # DevOps-Backup-Tutorial
 工作中接触到的DevOps相关的知识库备忘
 
-## 目的
+## Purpose
 
 - 整理下自己工作中的经验和所学
 - 对相关知识库备忘
 - 让更多的人体会到DevOps的好处
 
-## 目录
+## Summary
 - [DevOps介绍](Summary.md)
 - [第一阶段](First-Step.md)
 - [第二阶段](Second-Step.md)
 
-## 工具
-### 版本控制
+## Tools
+### Version Control
 - [GitLab](https://about.gitlab.com) 
 - [Gerrit](https://www.gerritcodereview.com)
 
-### 文档 & 项目管理
-- [Wiki & Jira & crowd](https://www.atlassian.com)
+### Doc & Project Manage
+- [Confluence & Jira & Crowd](https://www.atlassian.com)
 
-### 打包工具（Java）
+### Build Tools(Java)
 - [Maven](http://xxx)
 - [Gradle](http://xxx)
-- [Sbt](http://xxx)
 
-### 私服
-- [Nexus](http://xxx)
+### Nexus Private Repo
+- [Nexus OSS官网](https://www.sonatype.com/nexus-repository-oss)
+- [Nexus Docker Hub镜像](https://hub.docker.com/r/sonatype/nexus/)
 
-### Code Review
-- [SonarQube](http://xxx)
+### Auto Code Review Tools
+- [SonarQube官网](https://www.sonarqube.org)
+- [SonarQube Docker Hub镜像](https://hub.docker.com/_/sonarqube/)
 
-### 部署相关
-- [Docker]()
-- [Jenkins]()
+### Docker
+- [Docker官网](https://www.docker.com)
+- [Docker Hub](https://hub.docker.com)
+- [Docker CentOs 安装](https://michaelliuyang.github.io/devops/2017/05/31/docker-install.html)
 
-### 测试API管理
-- [eolinker_os]()
+### Jenkins
+- [Jenkins官网](https://jenkins.io)
+- [Jenkins Docker Hub镜像](https://hub.docker.com/_/jenkins/)
+- [Jenkins Docker安装](https://michaelliuyang.github.io/devops/2018/05/31/docker-jenkins.html)
 
-### 监控相关
+### Test Api Manage
+- [eolinker_os PHP版本](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP)
+- [eolinker_os Java版本](https://github.com/eolinker/eoLinker-AMS-Lite-For-Java)
+
+### Montior
 - [grafana]()
 - [Influxdb]()
 - [telegraf]()
 
-## 联系
+## Contact
 - Email: michaelliu99@sina.com
 - Blog: http://michaelliuyang.github.io
 - QQ: 120121723
