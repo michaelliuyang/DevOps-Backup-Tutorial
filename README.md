@@ -47,7 +47,8 @@
 ### Montior
 - [Grafana Offical Website](https://grafana.com)
 - [Influxdb Offical Website](https://www.influxdata.com)
-- [telegraf Offical Website](https://github.com/influxdata/telegraf)
+- [Telegraf Offical Website](https://github.com/influxdata/telegraf)
+- [Prometheus Offical Website](https://github.com/prometheus/prometheus)
 
 ## My Contact
 - Email: michaelliu99@sina.com
