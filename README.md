@@ -9,8 +9,8 @@
 
 ## Summary
 - [DevOps介绍](Summary.md)
-- [第一阶段](First-Step.md)
-- [第二阶段](Second-Step.md)
+- [第一阶段 Editing](First-Step.md)
+- [第二阶段 TODO](Second-Step.md)
 
 ## Tools
 ### Version Control
