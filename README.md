@@ -38,7 +38,7 @@
 
 ### Jenkins
 - [Jenkins Offical Website](https://jenkins.io)
-- [Jenkins Docker Hub](https://hub.docker.com/_/jenkins/)
+- [Jenkins Docker Hub](https://hub.docker.com/r/jenkins/jenkins/)
 
 ### Test Api Manage
 - [eolinker_os For PHP](https://github.com/eolinker/eoLinker-AMS-Lite-For-PHP)
